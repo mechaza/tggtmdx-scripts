@@ -1,7 +1,7 @@
 # tggtmdx-scripts
 The Golden Girls Take Manhattan Script Dump (2022)
 
-- Assets Used -
+~ Assets Used ~
 
 WIDELY USED:
 - Cinemachine (Used for camera play; it’s in the package manager in the Unity Registry category.)
