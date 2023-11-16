@@ -24,6 +24,7 @@ SPARINGLY USED/REPLACEABLE/NOT NECESSARY:
 - Dungeon Architect https://assetstore.unity.com/packages/tools/utilities/dungeon-architect-53895 (Used when I was seeing if it was good for generated dungeons but I ended up just making the tools myself.)
 - 2DxFX https://assetstore.unity.com/packages/tools/sprite-management/2dxfx-2d-sprite-fx-42566 (Used for certain effects on sprites, usually animations in battles.)
 - Camera Filter Pack https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/camera-filter-pack-18433 (Again, mostly for aesthetics and can be replaced.)
+- Introloop Audio https://assetstore.unity.com/packages/tools/audio/introloop-51095 (Used for managing music playback; not exactly necessary but I stand by this package since it's a very good interface for defining how music tracks should be looped.)
 
 You can definitely go without using some of these if you remove references where they're used (especially the ones no longer on the asset store since you will outright need to do that anyway.)
 Hopefully I didn't forget anything but I went about this by using the repo on its own and reimporting everything that was throwing compilation errors so theoretically this should actually be it.
